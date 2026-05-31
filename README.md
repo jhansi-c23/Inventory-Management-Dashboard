@@ -67,10 +67,6 @@ Through this project, I gained hands-on experience in:
 * Business Intelligence Reporting
 * Data Visualization Best Practices
 
-## Project Screenshot
-
-Add dashboard screenshots in this section.
-
 ## Author
 
 Jhansi
